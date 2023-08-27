@@ -1,5 +1,7 @@
 # Co-trained neural network (MLP) - custom Numpy implementation 
 
+(2022 project) 
+
 Note that no ML packages are used, but the code is vectorised via numpy.
 
 --- 
