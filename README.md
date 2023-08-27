@@ -1,4 +1,4 @@
-### co-trained neural network (MLP) - custom Numpy implementation 
+# Co-trained neural network (MLP) - custom Numpy implementation 
 
 Note that no ML packages are used, but the code is vectorised via numpy.
 
