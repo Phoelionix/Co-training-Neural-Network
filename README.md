@@ -16,11 +16,11 @@ encoding variable:
 encoded (set True if embedded data is being used)
 
 file path variables:
-prediction_path
-train_data_path
-unlabelled_data_path
-dev_data_path (for plotting accuracies)
-test_data_path
+prediction_path;
+train_data_path;
+unlabelled_data_path;
+dev_data_path (for plotting accuracies);
+test_data_path;
 path_for_temp_files (NOTE should also be the path to the dataset files. Stores copies of the training data. Needs to end in "/")
 
 ### Model variables:
@@ -29,11 +29,11 @@ path_for_temp_files (NOTE should also be the path to the dataset files. Stores c
 semi_supervised = False
 
 #### Self-trained, semi-supervised model:
-semi_supervised = True
+semi_supervised = True;
 co_training = False
 
 #### Co-trained, semi-supervised model:
-semi_supervised = True
+semi_supervised = True;
 co_training = True
 
 
