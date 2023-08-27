@@ -6,7 +6,7 @@ Note that no ML packages are used, but the code is vectorised via numpy.
 
 --- 
 
-Underlying MultiLayer Perceptron (MLP) model structure is constructed via a vectorised NumPy implementation. 
+Underlying MultiLayer Perceptron (MLP) model structure is constructed via a vectorised NumPy implementation.  <br>
 File designed for jupyter environment.  <br>
 The beginning of the python file contains the parameters needed to be modified to achieve different model types. See "Model variables" below. Hyperparameters are also included.  <br> 
 Code is very messy. Users should execute the first, then second cell to train the model. The third cell stores data at the file path held in the variable by prediction_path.  <br>
