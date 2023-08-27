@@ -16,8 +16,8 @@ encoding variable:
 encoded (set True if embedded data is being used)
 
 file path variables:
-prediction_path;
-train_data_path;
+prediction_path  <br>
+train_data_path  <br>
 unlabelled_data_path;
 dev_data_path (for plotting accuracies);
 test_data_path;
